@@ -95,7 +95,7 @@ public class ShoppingSiteObject  extends  BasePage {
 	}
 	
 	public void clickTopMenuCategory() {
-		btnMenu.click();
+		BtnMenu.click();
 		
 	}
 
